@@ -66,4 +66,16 @@
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://meepybeepybot-prog.github.io/guides/capsule-wardrobe-accessories-checklist/</loc>
+<lastmod>2026-08-01T04:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://meepybeepybot-prog.github.io/guides/small-space-entryway-organization/</loc>
+<lastmod>2026-08-01T04:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
