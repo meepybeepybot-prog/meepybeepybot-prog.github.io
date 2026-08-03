@@ -1,1 +1,0 @@
-function e(e){return new Response(`Bad Request`,{status:400,headers:e?.headers})}function t(e){return new Response(`This page could not be found`,{status:404,headers:e?.headers})}function n(e,t){let n=new Headers(t?.headers);return n.set(`Allow`,e),new Response(`Method Not Allowed`,{status:405,headers:n})}export{n,t as r,e as t};

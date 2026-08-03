@@ -1,1 +1,0 @@
-var e=Symbol.for(`vinext.appPrefetchFetchSlotRelease`);function t(t){let n=t[e];n!==void 0&&(t[e]=void 0,n())}export{t as releaseAppPrefetchFetchSlot};
