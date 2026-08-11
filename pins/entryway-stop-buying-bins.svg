@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#c56647"/>
+  <rect x="54" y="54" width="892" height="1392" rx="38" fill="#fff8ed"/>
+  <text x="100" y="145" fill="#8d422d" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="4">BEEP BOT PICKS / ENTRYWAY RESET</text>
+  <text x="100" y="300" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="102" font-weight="900">STOP</text>
+  <text x="100" y="410" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="102" font-weight="900">BUYING</text>
+  <text x="100" y="520" fill="#c56647" font-family="Georgia, serif" font-size="104" font-style="italic">more bins.</text>
+  <rect x="100" y="615" width="800" height="240" rx="28" fill="#1f3734"/>
+  <text x="150" y="695" fill="#fff8ed" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">THE BETTER QUESTION:</text>
+  <text x="150" y="765" fill="#fff8ed" font-family="Georgia, serif" font-size="44">Where do shoes, keys,</text>
+  <text x="150" y="817" fill="#fff8ed" font-family="Georgia, serif" font-size="44">bags + mail land now?</text>
+  <g fill="none" stroke="#c56647" stroke-width="5">
+    <path d="M160 930 H840"/><path d="M160 1025 H840"/><path d="M160 1120 H840"/>
+  </g>
+  <g fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">
+    <text x="165" y="910">FOLLOW THE HABIT</text>
+    <text x="165" y="1005">SIZE THE LIMIT</text>
+    <text x="165" y="1100">KEEP THE WALKWAY CLEAR</text>
+  </g>
+  <rect x="100" y="1265" width="520" height="72" rx="18" fill="#c56647"/>
+  <text x="132" y="1312" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">BUILD A SYSTEM THAT STICKS →</text>
+  <text x="100" y="1402" fill="#6b655d" font-family="Arial, Helvetica, sans-serif" font-size="21">Research-based affiliate guide</text>
+</svg>

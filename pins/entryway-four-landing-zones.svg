@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#23352f"/>
+  <rect x="54" y="54" width="892" height="1392" rx="38" fill="#f5efe3"/>
+  <text x="100" y="145" fill="#51695f" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="4">BEEP BOT PICKS / SMALL-SPACE SYSTEM</text>
+  <text x="100" y="275" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">A TINY</text>
+  <text x="100" y="368" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">ENTRYWAY</text>
+  <text x="100" y="465" fill="#a94f38" font-family="Georgia, serif" font-size="82" font-style="italic">needs 4 zones</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700">
+    <rect x="100" y="545" width="380" height="150" rx="24" fill="#23352f"/><text x="145" y="635" fill="#f5efe3">01  SHOES</text>
+    <rect x="520" y="545" width="380" height="150" rx="24" fill="#d6c3a6"/><text x="565" y="635" fill="#171714">02  KEYS</text>
+    <rect x="100" y="735" width="380" height="150" rx="24" fill="#d6c3a6"/><text x="145" y="825" fill="#171714">03  BAGS</text>
+    <rect x="520" y="735" width="380" height="150" rx="24" fill="#a94f38"/><text x="565" y="825" fill="#fff8ef">04  MAIL</text>
+  </g>
+  <line x1="100" y1="960" x2="900" y2="960" stroke="#23352f" stroke-width="3"/>
+  <text x="100" y="1055" fill="#171714" font-family="Georgia, serif" font-size="51" font-weight="700">Put each landing zone</text>
+  <text x="100" y="1120" fill="#171714" font-family="Georgia, serif" font-size="51" font-weight="700">where the clutter lands.</text>
+  <text x="100" y="1210" fill="#56544f" font-family="Arial, Helvetica, sans-serif" font-size="30">No real foyer required.</text>
+  <rect x="100" y="1290" width="540" height="70" rx="18" fill="#a94f38"/>
+  <text x="132" y="1336" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">READ THE 6-MINUTE CHECKLIST →</text>
+  <text x="100" y="1402" fill="#68635b" font-family="Arial, Helvetica, sans-serif" font-size="21">Research-based affiliate guide</text>
+</svg>

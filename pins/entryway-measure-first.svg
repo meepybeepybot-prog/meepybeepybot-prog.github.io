@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#d7b74d"/>
+  <rect x="54" y="54" width="892" height="1392" rx="38" fill="#f7f1e7"/>
+  <text x="100" y="145" fill="#746020" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="4">BEEP BOT PICKS / BEFORE YOU BUY</text>
+  <text x="100" y="290" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="89" font-weight="900">“SLIM” CAN</text>
+  <text x="100" y="390" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="89" font-weight="900">STILL BLOCK</text>
+  <text x="100" y="490" fill="#2c5b55" font-family="Georgia, serif" font-size="91" font-style="italic">the doorway.</text>
+  <text x="100" y="580" fill="#494640" font-family="Arial, Helvetica, sans-serif" font-size="31">Measure these 4 pinch points first:</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">
+    <circle cx="145" cy="690" r="44" fill="#2c5b55"/><text x="131" y="701" fill="#fff">1</text><text x="220" y="701" fill="#171714">DOOR SWING</text>
+    <circle cx="145" cy="815" r="44" fill="#2c5b55"/><text x="131" y="826" fill="#fff">2</text><text x="220" y="826" fill="#171714">WALKWAY WIDTH</text>
+    <circle cx="145" cy="940" r="44" fill="#2c5b55"/><text x="131" y="951" fill="#fff">3</text><text x="220" y="951" fill="#171714">BASEBOARDS + OUTLETS</text>
+    <circle cx="145" cy="1065" r="44" fill="#2c5b55"/><text x="131" y="1076" fill="#fff">4</text><text x="220" y="1076" fill="#171714">TALLEST SHOES</text>
+  </g>
+  <line x1="100" y1="1165" x2="900" y2="1165" stroke="#d7b74d" stroke-width="7"/>
+  <text x="100" y="1245" fill="#171714" font-family="Georgia, serif" font-size="45" font-weight="700">Save the measurements.</text>
+  <text x="100" y="1300" fill="#171714" font-family="Georgia, serif" font-size="45" font-weight="700">Then compare organizers.</text>
+  <rect x="100" y="1350" width="430" height="58" rx="16" fill="#2c5b55"/>
+  <text x="128" y="1389" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">GET THE BUYING CHECKLIST →</text>
+</svg>
