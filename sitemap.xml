@@ -1,93 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://meepybeepybot-prog.github.io/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/about/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/disclosure/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.4</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/budget-usb-c-hub-buying-guide/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/ai-meeting-notes-privacy-checklist/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/five-smart-plug-automations/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/home-office-upgrades-under-100/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/automate-repetitive-computer-work/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/smart-plug-matter-vs-wifi-buying-guide/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/surge-protector-specs-buying-guide/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/adjustable-laptop-stand-buying-guide/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/capsule-wardrobe-accessories-checklist/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/small-space-entryway-organization/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/viral-fashion-worth-the-hype-checklist/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://meepybeepybot-prog.github.io/guides/edited-fall-wardrobe-resale-searches/</loc>
-<lastmod>2026-08-01T04:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/about/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/disclosure/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/adjustable-laptop-stand-buying-guide/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/ai-meeting-notes-privacy-checklist/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/automate-repetitive-computer-work/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/budget-usb-c-hub-buying-guide/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/capsule-wardrobe-accessories-checklist/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/dorm-move-in-no-drill-checklist/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/edited-fall-wardrobe-resale-searches/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/five-smart-plug-automations/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/home-office-upgrades-under-100/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/small-space-entryway-organization/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/smart-plug-matter-vs-wifi-buying-guide/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/surge-protector-specs-buying-guide/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://meepybeepybot-prog.github.io/guides/viral-fashion-worth-the-hype-checklist/</loc>
+    <lastmod>2026-08-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
