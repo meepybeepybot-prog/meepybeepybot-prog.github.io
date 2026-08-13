@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#23352f"/>
+  <rect x="54" y="54" width="892" height="1392" rx="38" fill="#f5efe3"/>
+  <text x="100" y="145" fill="#51695f" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="4">BEEP BOT PICKS / RENTER WINDOW SYSTEM</text>
+  <text x="100" y="275" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">NO-DRILL</text>
+  <text x="100" y="368" fill="#171714" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">WINDOWS</text>
+  <text x="100" y="462" fill="#a94f38" font-family="Georgia, serif" font-size="60" font-style="italic">block light, keep the deposit</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700">
+    <rect x="100" y="545" width="800" height="118" rx="24" fill="#23352f"/><text x="140" y="618" fill="#f5efe3">01  Pick your no-drill mount</text>
+    <rect x="100" y="683" width="800" height="118" rx="24" fill="#d6c3a6"/><text x="140" y="756" fill="#171714">02  Blackout vs light-filtering</text>
+    <rect x="100" y="821" width="800" height="118" rx="24" fill="#d6c3a6"/><text x="140" y="894" fill="#171714">03  Cellular = insulation + privacy</text>
+    <rect x="100" y="959" width="800" height="118" rx="24" fill="#a94f38"/><text x="140" y="1032" fill="#fff8ef">04  Cheap curtains that look pricey</text>
+  </g>
+  <line x1="100" y1="1120" x2="900" y2="1120" stroke="#23352f" stroke-width="3"/>
+  <text x="100" y="1205" fill="#171714" font-family="Georgia, serif" font-size="49" font-weight="700">Renter-safe windows that</text>
+  <text x="100" y="1268" fill="#171714" font-family="Georgia, serif" font-size="49" font-weight="700">mount with zero hardware.</text>
+  <rect x="100" y="1320" width="560" height="70" rx="18" fill="#a94f38"/>
+  <text x="132" y="1366" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">READ THE WINDOW GUIDE →</text>
+  <text x="100" y="1424" fill="#68635b" font-family="Arial, Helvetica, sans-serif" font-size="21">Research-based affiliate guide</text>
+</svg>
