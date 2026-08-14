@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#294b63"/>
+  <rect x="58" y="58" width="884" height="1384" rx="34" fill="#f6f8fa" stroke="#141b22" stroke-width="4"/>
+  <text x="100" y="145" fill="#2f6f8f" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">BEEP BOT PICKS / BUDGET TECH</text>
+  <text x="100" y="285" fill="#141b22" font-family="Georgia, serif" font-size="80" font-weight="700">Surge protector:</text>
+  <text x="100" y="382" fill="#141b22" font-family="Georgia, serif" font-size="80" font-weight="700">read the specs</text>
+  <text x="100" y="458" fill="#3d4b56" font-family="Arial, Helvetica, sans-serif" font-size="42">Not the marketing headline</text>
+  <line x1="100" y1="516" x2="900" y2="516" stroke="#141b22" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="135" cy="600" r="27" fill="#2f6f8f"/><text x="127" y="611" fill="#fff" font-size="29" font-weight="700">1</text>
+    <text x="193" y="612" fill="#141b22" font-size="40" font-weight="700">UL 1449 + exact model</text>
+    <circle cx="135" cy="712" r="27" fill="#2f6f8f"/><text x="127" y="723" fill="#fff" font-size="29" font-weight="700">2</text>
+    <text x="193" y="724" fill="#141b22" font-size="40" font-weight="700">A protection-status light</text>
+    <circle cx="135" cy="824" r="27" fill="#2f6f8f"/><text x="127" y="835" fill="#fff" font-size="29" font-weight="700">3</text>
+    <text x="193" y="836" fill="#141b22" font-size="40" font-weight="700">Cord length + plug angle</text>
+    <circle cx="135" cy="936" r="27" fill="#2f6f8f"/><text x="127" y="947" fill="#fff" font-size="29" font-weight="700">4</text>
+    <text x="193" y="948" fill="#141b22" font-size="40" font-weight="700">Spacing for power bricks</text>
+    <circle cx="135" cy="1048" r="27" fill="#2f6f8f"/><text x="127" y="1059" fill="#fff" font-size="29" font-weight="700">5</text>
+    <text x="193" y="1060" fill="#141b22" font-size="40" font-weight="700">Warranty claim evidence</text>
+  </g>
+  <rect x="100" y="1150" width="800" height="120" rx="22" fill="#cfe0e8"/>
+  <text x="135" y="1202" fill="#141b22" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">A STRIP ISN'T A SURGE PROTECTOR.</text>
+  <text x="135" y="1244" fill="#141b22" font-family="Arial, Helvetica, sans-serif" font-size="27">Full spec checklist + USB-C notes →</text>
+  <text x="100" y="1345" fill="#3d4b56" font-family="Arial, Helvetica, sans-serif" font-size="24">Research-based affiliate guide • Prices and availability vary</text>
+</svg>

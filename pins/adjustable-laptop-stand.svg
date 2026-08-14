@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#294b63"/>
+  <rect x="58" y="58" width="884" height="1384" rx="34" fill="#f6f8fa" stroke="#141b22" stroke-width="4"/>
+  <text x="100" y="145" fill="#2f6f8f" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">BEEP BOT PICKS / HOME OFFICE</text>
+  <text x="100" y="285" fill="#141b22" font-family="Georgia, serif" font-size="88" font-weight="700">Laptop stand:</text>
+  <text x="100" y="385" fill="#141b22" font-family="Georgia, serif" font-size="88" font-weight="700">4 checks first</text>
+  <text x="100" y="460" fill="#3d4b56" font-family="Arial, Helvetica, sans-serif" font-size="42">It only helps if these are true</text>
+  <line x1="100" y1="520" x2="900" y2="520" stroke="#141b22" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="135" cy="640" r="30" fill="#2f6f8f"/><text x="125" y="652" fill="#fff" font-size="32" font-weight="700">1</text>
+    <text x="200" y="653" fill="#141b22" font-size="42" font-weight="700">Holds your size + weight</text>
+    <circle cx="135" cy="790" r="30" fill="#2f6f8f"/><text x="125" y="802" fill="#fff" font-size="32" font-weight="700">2</text>
+    <text x="200" y="803" fill="#141b22" font-size="42" font-weight="700">Joints stay put, no tools</text>
+    <circle cx="135" cy="940" r="30" fill="#2f6f8f"/><text x="125" y="952" fill="#fff" font-size="32" font-weight="700">3</text>
+    <text x="200" y="953" fill="#141b22" font-size="42" font-weight="700">Low lip clears wrists + ports</text>
+    <circle cx="135" cy="1090" r="30" fill="#2f6f8f"/><text x="125" y="1102" fill="#fff" font-size="32" font-weight="700">4</text>
+    <text x="200" y="1103" fill="#141b22" font-size="42" font-weight="700">Never blocks the vents</text>
+  </g>
+  <rect x="100" y="1200" width="800" height="130" rx="22" fill="#cfe0e8"/>
+  <text x="135" y="1252" fill="#141b22" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">PLAN AN EXTERNAL KEYBOARD TOO.</text>
+  <text x="135" y="1296" fill="#141b22" font-family="Arial, Helvetica, sans-serif" font-size="27">Fixed vs adjustable vs folding →</text>
+  <text x="100" y="1390" fill="#3d4b56" font-family="Arial, Helvetica, sans-serif" font-size="24">Research-based affiliate guide • Prices and availability vary</text>
+</svg>
