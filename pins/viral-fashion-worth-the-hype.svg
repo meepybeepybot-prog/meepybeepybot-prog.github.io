@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#f2eadf"/>
+  <rect x="58" y="58" width="884" height="1384" rx="34" fill="#fffaf3" stroke="#20201d" stroke-width="4"/>
+  <text x="100" y="145" fill="#8a4634" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">BEEP BOT PICKS / TRENDING STYLE</text>
+  <text x="100" y="285" fill="#20201d" font-family="Georgia, serif" font-size="96" font-weight="700">Worth the</text>
+  <text x="100" y="385" fill="#20201d" font-family="Georgia, serif" font-size="96" font-weight="700">hype?</text>
+  <text x="100" y="460" fill="#695441" font-family="Arial, Helvetica, sans-serif" font-size="42">5 checks before you buy viral fashion</text>
+  <line x1="100" y1="520" x2="900" y2="520" stroke="#20201d" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="135" cy="610" r="28" fill="#a94f38"/><text x="126" y="621" fill="#fff" font-size="30" font-weight="700">1</text>
+    <text x="195" y="622" fill="#20201d" font-size="42" font-weight="700">Outfit fit — name 3 pairings</text>
+    <circle cx="135" cy="735" r="28" fill="#a94f38"/><text x="126" y="746" fill="#fff" font-size="30" font-weight="700">2</text>
+    <text x="195" y="747" fill="#20201d" font-size="42" font-weight="700">Material actually listed</text>
+    <circle cx="135" cy="860" r="28" fill="#a94f38"/><text x="126" y="871" fill="#fff" font-size="30" font-weight="700">3</text>
+    <text x="195" y="872" fill="#20201d" font-size="42" font-weight="700">Sizing measurements</text>
+    <circle cx="135" cy="985" r="28" fill="#a94f38"/><text x="126" y="996" fill="#fff" font-size="30" font-weight="700">4</text>
+    <text x="195" y="997" fill="#20201d" font-size="42" font-weight="700">Comfort in real reviews</text>
+    <circle cx="135" cy="1110" r="28" fill="#a94f38"/><text x="126" y="1121" fill="#fff" font-size="30" font-weight="700">5</text>
+    <text x="195" y="1122" fill="#20201d" font-size="42" font-weight="700">Return window is usable</text>
+  </g>
+  <rect x="100" y="1215" width="800" height="115" rx="22" fill="#e4c9b5"/>
+  <text x="135" y="1265" fill="#20201d" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">FIVE CHECKS. NO IMPULSE BUY.</text>
+  <text x="135" y="1307" fill="#20201d" font-family="Arial, Helvetica, sans-serif" font-size="27">What each check really means →</text>
+  <text x="100" y="1390" fill="#695441" font-family="Arial, Helvetica, sans-serif" font-size="24">Research-based affiliate guide • Prices and availability vary</text>
+</svg>
