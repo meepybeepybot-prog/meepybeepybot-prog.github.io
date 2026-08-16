@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#294b63"/>
+  <rect x="58" y="58" width="884" height="1384" rx="34" fill="#f6f8fa" stroke="#141b22" stroke-width="4"/>
+  <text x="100" y="145" fill="#2f6f8f" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">BEEP BOT PICKS / BUDGET TECH</text>
+  <text x="100" y="285" fill="#141b22" font-family="Georgia, serif" font-size="80" font-weight="700">$100 home office:</text>
+  <text x="100" y="382" fill="#141b22" font-family="Georgia, serif" font-size="80" font-weight="700">spend in order</text>
+  <text x="100" y="458" fill="#3d4b56" font-family="Arial, Helvetica, sans-serif" font-size="42">Comfort beats desk gadgets</text>
+  <line x1="100" y1="516" x2="900" y2="516" stroke="#141b22" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="140" cy="640" r="32" fill="#2f6f8f"/><text x="130" y="653" fill="#fff" font-size="34" font-weight="700">1</text>
+    <text x="205" y="638" fill="#141b22" font-size="44" font-weight="700">Raise the screen</text>
+    <text x="205" y="686" fill="#3d4b56" font-size="30">Top of display near eye level</text>
+    <circle cx="140" cy="810" r="32" fill="#2f6f8f"/><text x="130" y="823" fill="#fff" font-size="34" font-weight="700">2</text>
+    <text x="205" y="808" fill="#141b22" font-size="44" font-weight="700">Fix task lighting</text>
+    <text x="205" y="856" fill="#3d4b56" font-size="30">Diffuse lamp beside the monitor</text>
+    <circle cx="140" cy="980" r="32" fill="#2f6f8f"/><text x="130" y="993" fill="#fff" font-size="34" font-weight="700">3</text>
+    <text x="205" y="978" fill="#141b22" font-size="44" font-weight="700">Buy reliability</text>
+    <text x="205" y="1026" fill="#3d4b56" font-size="30">Surge protector, one good cable</text>
+  </g>
+  <rect x="100" y="1150" width="800" height="120" rx="22" fill="#cfe0e8"/>
+  <text x="135" y="1202" fill="#141b22" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">SKIP THE NOVELTY GADGETS.</text>
+  <text x="135" y="1244" fill="#141b22" font-family="Arial, Helvetica, sans-serif" font-size="27">The full under-$100 spend order →</text>
+  <text x="100" y="1345" fill="#3d4b56" font-family="Arial, Helvetica, sans-serif" font-size="24">Research-based affiliate guide • Prices and availability vary</text>
+</svg>
